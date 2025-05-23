@@ -126,4 +126,4 @@ ls -l /opt/deployment/
 
 ---
 
-> ✅ You’ve now built a full CI/CD pipeline with Jenkins, Maven, and Ansible!
+✅ You’ve now built a full CI/CD pipeline with Jenkins, Maven, and Ansible!
